@@ -1,6 +1,7 @@
 # sbmcourse2020
 
-Welcome ...2
+Welcome ...
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2MDg1Mzg2NiwtMTYxNTU2MTk5Ml19
+eyJoaXN0b3J5IjpbLTE2MTU1NjE5OTIsLTE2MTU1NjE5OTJdfQ
+==
 -->
