@@ -11,7 +11,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DB", "DB", "{D6404729-4642-
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Queue", "Queue", "{49FE9030-8595-41B9-8ED6-2EEC2B35EA12}"
 	ProjectSection(SolutionItems) = preProject
-		DockerFile.txt = DockerFile.txt
+		MyRabbitMQContainer\DockerFile.txt = MyRabbitMQContainer\DockerFile.txt
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Mobile", "Mobile", "{5E7CF6FB-A37C-4FCA-AC9F-3B0C4D855118}"
